@@ -1,41 +1,66 @@
 {
   "hindi_anime": [
     {
-      "title": "Naruto - Hindi Episode 1",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
+      "title": "Campfire Cooking in Another World with My Absurd Skill",
+      "publisher": "Mouse India",
+      "videoUrl": "https://youtu.be/EH8OtE7yNBA?si=qCMecpjvkIGxeQcv"
     },
     {
-      "title": "Watch Sky News Live Test",
-      "publisher": "Sky News",
-      "videoUrl": "https://www.youtube.com/watch?v=YDvsBbKfLPA"
+      "title": "Tokyo Revengers",
+      "publisher": "Mouse India",
+      "videoUrl": "https://youtu.be/rV9QmUSlPds?si=p9C1UqbnHeOIH_SX"
     },
     {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
+      "title": "Re: Monster",
+      "publisher": "AniBlaze Recap",
+      "videoUrl": "https://youtu.be/C9aIp2n7KWI?si=qkLMGv7-lsmPOvFT"
     },
     {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
-    },
-     {
-      "title": "Naruto - Hindi Episode 1",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
+      "title": "SPY×FAMILY",
+      "publisher": "Mouse India",
+      "videoUrl": "https://youtu.be/1AQtGDYVs7k?si=W5SpOXMN4wjbJyRa"
     },
     {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
+      "title": "Shoot! Goal to the Future",
+      "publisher": "Daiko Plays",
+      "videoUrl": "https://youtu.be/bRh0UhjCX3w?si=I5KdFhIHlZbT8w7T"
     },
     {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },
+    {
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },
+    {
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },
+    {
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },
+    {
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },
+    {
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
     }
   ],
+
+
+
+
+
 
   "english_anime": [
     {
@@ -69,6 +94,10 @@
       "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     }
   ],
+
+
+
+
 
   "episode_1": [
     {
@@ -107,6 +136,9 @@
       "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     }
   ],
+
+
+
 
   "episode_2": [
     {
@@ -155,6 +187,9 @@
       "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     }
   ],
+
+
+
 
   "episode_3": [
     {
