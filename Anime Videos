@@ -26,29 +26,29 @@
       "videoUrl": "https://youtu.be/bRh0UhjCX3w?si=I5KdFhIHlZbT8w7T"
     },
     {
-      "title": "title",
-      "publisher": "publisher",
-      "videoUrl": "link"
+      "title": "From Ordinary to the LORD of MYSTERIES!",
+      "publisher": "Anico",
+      "videoUrl": "https://youtu.be/YC-8GF_Ylbw?si=kIFZvY3WuQDYBIFq"
     },
     {
-      "title": "title",
-      "publisher": "publisher",
-      "videoUrl": "link"
+      "title": "New Hindi Dub Anime",
+      "publisher": "Adventure Guild",
+      "videoUrl": "https://youtu.be/9a68HJYlMz4?si=dCc-5Gb2oreMz9Ea"
     },
     {
-      "title": "title",
-      "publisher": "publisher",
-      "videoUrl": "link"
+      "title": "JoJo's Bizarre Adventure",
+      "publisher": "Mouse India",
+      "videoUrl": "https://youtu.be/2r2Xg38F1W8?si=2CTd8Azugg6opDKB"
     },
     {
-      "title": "title",
-      "publisher": "publisher",
-      "videoUrl": "link"
+      "title": "That Time I Got Reincarnated as a Slime",
+      "publisher": "Mouse India",
+      "videoUrl": "https://youtu.be/7m3x5V2WWxc?si=cI_0bH7OThpcNrPY"
     },
     {
-      "title": "title",
-      "publisher": "publisher",
-      "videoUrl": "link"
+      "title": "The Weakest Orphan Was Raised by Assassins",
+      "publisher": "Anime Bench",
+      "videoUrl": "https://youtu.be/IZG9cYsNVuk?si=99hYJ6muoH4Ix37y"
     },
     {
       "title": "title",
@@ -64,34 +64,41 @@
 
   "english_anime": [
     {
-      "title": "Naruto - English Episode 1",
-      "publisher": "Crunchyroll Collection",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
-    },
-    {
-      "title": "One Piece - English Clip",
-      "publisher": "Crunchyroll Collection",
-      "videoUrl": "https://youtu.be/wK75QZSImkY?si=8J04Mcievq-IV2sv"
-    },
-    {
-      "title": "Attack on Titan - English Clip",
-      "publisher": "Crunchyroll Collection",
-      "videoUrl": "https://youtu.be/wK75QZSImkY?si=8J04Mcievq-IV2sv"
-    },
-     {
-      "title": "Naruto - Hindi Episode 1",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "publisher": "Mouse India",
+      "videoUrl": "https://youtu.be/VGFQZIhx9Cs?si=3Vv8Vi9ddRb4MnVF"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
+    },{
+      "title": "title",
+      "publisher": "publisher",
+      "videoUrl": "link"
     }
   ],
 
